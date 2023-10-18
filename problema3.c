@@ -4,6 +4,7 @@ int main()
 {
 
     // re baieti
+    // cf gaozarilor
 
     int m; scanf("%d", &m);
     int n; scanf("%d", &n);
