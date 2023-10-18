@@ -2,6 +2,9 @@
 
 int main()
 {
+
+    // re baieti
+
     int m; scanf("%d", &m);
     int n; scanf("%d", &n);
 
